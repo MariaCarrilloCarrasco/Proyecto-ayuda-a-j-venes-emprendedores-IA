@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Imagen IA 2">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1d3557"/>
+      <stop offset="100%" stop-color="#457b9d"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg2)"/>
+  <rect x="120" y="150" width="410" height="260" rx="24" fill="#ffffff" fill-opacity="0.16"/>
+  <rect x="670" y="370" width="380" height="220" rx="24" fill="#ffffff" fill-opacity="0.14"/>
+  <text x="80" y="690" font-family="Segoe UI, Arial, sans-serif" font-size="82" fill="#ffffff" fill-opacity="0.95">Conexion Digital</text>
+</svg>
