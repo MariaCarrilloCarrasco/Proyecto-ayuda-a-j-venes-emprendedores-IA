@@ -1,0 +1,15 @@
+{
+    "github.copilot.instructions": {
+    "project": "copilot-instructions.md",
+    "global": ".copilot/copilot-instructions.md"
+  },
+
+  "github.copilot.additionalInstructions": [
+    "frontend/copilot-instructions.md",
+    "backend/copilot-instructions.md"
+  ],
+
+  "files.exclude": {
+    "**/.git": true
+  }
+}
