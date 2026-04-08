@@ -1,0 +1,9 @@
+{
+  "name": "proyecto-ayuda-a-jovenes-emprendedores-ia",
+  "private": true,
+  "scripts": {
+    "test": "npm --prefix js-songs-MariaCarrilloCarrasco test",
+    "start": "npm --prefix js-songs-MariaCarrilloCarrasco start",
+    "install:songs": "npm --prefix js-songs-MariaCarrilloCarrasco install"
+  }
+}
